@@ -1,5 +1,8 @@
-### Hi there 👋
+### Benjamin Per Filip Bohnstedt 👋
 
+Student at NTI Nacka
+
+Children in basement
 <!--
 **BenjaminBohnstedt/BenjaminBohnstedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
